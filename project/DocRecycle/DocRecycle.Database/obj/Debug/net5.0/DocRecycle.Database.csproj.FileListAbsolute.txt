@@ -1,0 +1,12 @@
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\bin\Debug\net5.0\DocRecycle.Database.deps.json
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\bin\Debug\net5.0\DocRecycle.Database.dll
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\bin\Debug\net5.0\ref\DocRecycle.Database.dll
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\bin\Debug\net5.0\DocRecycle.Database.pdb
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.csprojAssemblyReference.cache
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.AssemblyInfoInputs.cache
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.AssemblyInfo.cs
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.csproj.CoreCompileInputs.cache
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.dll
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\ref\DocRecycle.Database.dll
+C:\Projects\Rider\DocRecycle\DocRecycle.Database\obj\Debug\net5.0\DocRecycle.Database.pdb

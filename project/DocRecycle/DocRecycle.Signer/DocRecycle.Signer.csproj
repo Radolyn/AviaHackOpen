@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DocRecycle.Database\DocRecycle.Database.csproj" />
+      <ProjectReference Include="..\Open-Xml-PowerTools\OpenXmlPowerTools\OpenXmlPowerTools.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DinkToPdfIncludesDependencies" Version="1.0.8" />
+      <PackageReference Include="TemplateEngine.Docx" Version="1.1.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="libwkhtmltox.dll">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="libwkhtmltox.so">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

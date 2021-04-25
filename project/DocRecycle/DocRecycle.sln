@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocRecycle", "DocRecycle\DocRecycle.csproj", "{C117FCCB-0402-4832-A1E6-FA027B114169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocRecycle.Database", "DocRecycle.Database\DocRecycle.Database.csproj", "{ACF1E56D-FBBB-4ABB-8603-045CAC8A41FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocRecycle.Signer", "DocRecycle.Signer\DocRecycle.Signer.csproj", "{8590B7D4-4097-41C2-84D3-0F4351B990DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenXmlPowerTools", "Open-Xml-PowerTools\OpenXmlPowerTools\OpenXmlPowerTools.csproj", "{B3FACA3B-DF33-4585-BA49-1778CC150792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C117FCCB-0402-4832-A1E6-FA027B114169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C117FCCB-0402-4832-A1E6-FA027B114169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C117FCCB-0402-4832-A1E6-FA027B114169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C117FCCB-0402-4832-A1E6-FA027B114169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF1E56D-FBBB-4ABB-8603-045CAC8A41FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF1E56D-FBBB-4ABB-8603-045CAC8A41FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF1E56D-FBBB-4ABB-8603-045CAC8A41FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF1E56D-FBBB-4ABB-8603-045CAC8A41FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8590B7D4-4097-41C2-84D3-0F4351B990DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8590B7D4-4097-41C2-84D3-0F4351B990DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8590B7D4-4097-41C2-84D3-0F4351B990DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8590B7D4-4097-41C2-84D3-0F4351B990DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FACA3B-DF33-4585-BA49-1778CC150792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FACA3B-DF33-4585-BA49-1778CC150792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FACA3B-DF33-4585-BA49-1778CC150792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FACA3B-DF33-4585-BA49-1778CC150792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
